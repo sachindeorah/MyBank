@@ -6,7 +6,7 @@ Login credentials: test@mybank.com/1234
 
 Note: 
 •	3 Screens.  Login > Album list > Photo list
-•	Custom Login API from mockable.io and have basic form validations.
+•	Custom Login API from https://www.mockable.io/ and have basic form validations.
 •	Login API uses the Post API
 •	Album and Photo used the stream controller and API from https://jsonplaceholder.typicode.com/
 •	Album and Photo use the Get API
