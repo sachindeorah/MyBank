@@ -1,6 +1,6 @@
 # mybank
 
-A Sample App for Virtusa Bank
+A Sample My Bank App to test Stream controller, API's call, and different other features of Flutter.
 
 ## Getting Started
 
